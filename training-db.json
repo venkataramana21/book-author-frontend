@@ -1,0 +1,28 @@
+{
+    "books":[
+        {
+            "bookId": 1,
+            "bookTitle": "play with python",
+            "bookPrice": "19.99",
+            "bookPublished": "2023-10-15",
+            "bookImageUrl": "https://example.com/image.jpg",
+            "bookAuthorId": "auth123"
+        },
+        {
+            "bookId": 2,
+            "bookTitle": "aws zero to hero",
+            "bookPrice": "24.99",
+            "bookPublished": "2022-05-12",
+            "bookImageUrl": "https://example.com/image2.jpg",
+            "bookAuthorId": "auth456"
+        },
+        {
+            "bookId": 3,
+            "bookTitle": "atomic structure",
+            "bookPrice": "14.99",
+            "bookPublished": "2021-08-23",
+            "bookImageUrl": "https://example.com/image3.jpg",
+            "bookAuthorId": "auth789"
+        }
+    ]
+}
